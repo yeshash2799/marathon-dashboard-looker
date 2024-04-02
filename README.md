@@ -7,3 +7,5 @@
 - **Database Integration and SQL Analysis:** The transformed data was seamlessly integrated into a MySQL database, enabling efficient querying and analysis. Through the crafting of intricate SQL queries, I extracted valuable insights, uncovering hidden trends and relationships within the dataset.
 
 - **Visualization and Dashboarding:** Leveraging Looker Studio, I translated my findings into a visually compelling narrative. The marathon dashboard, comprising dynamic tables, interactive maps, insightful bar charts, informative KPI cards, and intuitive slicers, offers a holistic view of the marathon landscape.
+
+- **Dashboard Link:** <https://lookerstudio.google.com/reporting/1917d59b-d57c-4344-9f4a-04f443c32d4a>
